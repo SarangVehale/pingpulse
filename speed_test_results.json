@@ -1,0 +1,177 @@
+[
+    {
+        "timestamp": "2025-02-01 15:38:48",
+        "server": {
+            "url": "http://st.blazejpr.com:8080/speedtest/upload.php",
+            "lat": "26.9260",
+            "lon": "75.8235",
+            "name": "Jaipur",
+            "country": "India",
+            "cc": "IN",
+            "sponsor": "BlazeNet Ltd.",
+            "id": "30203",
+            "host": "st.blazejpr.com:8080",
+            "d": 237.20714450068533,
+            "latency": 43.966
+        },
+        "download_speed": 70.91594284405842,
+        "upload_speed": 3.029768138976099,
+        "ping": 43.966
+    },
+    {
+        "timestamp": "2025-02-01 15:41:23",
+        "server": {
+            "url": "http://jaipur-sptest.ishancloud.com:8080/speedtest/upload.php",
+            "lat": "26.9260",
+            "lon": "75.8235",
+            "name": "Jaipur",
+            "country": "India",
+            "cc": "IN",
+            "sponsor": "Ishan Netsol Pvt Ltd",
+            "id": "28355",
+            "host": "jaipur-sptest.ishancloud.com:8080",
+            "d": 237.20714450068533,
+            "latency": 29.026
+        },
+        "download_speed": 73.59977155964464,
+        "upload_speed": 4.164738402317376,
+        "ping": 29.026
+    },
+    {
+        "timestamp": "2025-02-01 15:45:19",
+        "server": {
+            "url": "http://st.blazejpr.com:8080/speedtest/upload.php",
+            "lat": "26.9260",
+            "lon": "75.8235",
+            "name": "Jaipur",
+            "country": "India",
+            "cc": "IN",
+            "sponsor": "BlazeNet Ltd.",
+            "id": "30203",
+            "host": "st.blazejpr.com:8080",
+            "d": 237.20714450068533,
+            "latency": 34.017
+        },
+        "download_speed": 63.17401875929952,
+        "upload_speed": 1.733954728511934,
+        "ping": 34.017,
+        "ip_info": {
+            "ip": "152.58.119.61",
+            "city": "Delhi",
+            "region": "Delhi",
+            "country": "IN",
+            "loc": "28.6519,77.2315",
+            "org": "AS55836 Reliance Jio Infocomm Limited",
+            "postal": "110001",
+            "timezone": "Asia/Kolkata",
+            "readme": "https://ipinfo.io/missingauth"
+        }
+    },
+    {
+        "timestamp": "2025-02-01 15:49:04",
+        "server": {
+            "url": "http://st.blazejpr.com:8080/speedtest/upload.php",
+            "lat": "26.9260",
+            "lon": "75.8235",
+            "name": "Jaipur",
+            "country": "India",
+            "cc": "IN",
+            "sponsor": "BlazeNet Ltd.",
+            "id": "30203",
+            "host": "st.blazejpr.com:8080",
+            "d": 237.20714450068533,
+            "latency": 35.094
+        },
+        "download_speed": 62.40995088051656,
+        "upload_speed": 1.4477806137258566,
+        "ping": 35.094,
+        "ip_info": {
+            "ip": "152.58.119.61",
+            "city": "Delhi",
+            "region": "Delhi",
+            "country": "IN",
+            "loc": "28.6519,77.2315",
+            "org": "AS55836 Reliance Jio Infocomm Limited",
+            "postal": "110001",
+            "timezone": "Asia/Kolkata",
+            "readme": "https://ipinfo.io/missingauth"
+        }
+    },
+    {
+        "timestamp": "2025-02-01 15:51:37",
+        "server": {
+            "url": "http://st.blazejpr.com:8080/speedtest/upload.php",
+            "lat": "26.9260",
+            "lon": "75.8235",
+            "name": "Jaipur",
+            "country": "India",
+            "cc": "IN",
+            "sponsor": "BlazeNet Ltd.",
+            "id": "30203",
+            "host": "st.blazejpr.com:8080",
+            "d": 237.20714450068533,
+            "latency": 29.946
+        },
+        "download_speed": 66.50615689256907,
+        "upload_speed": 1.1185890235976037,
+        "ping": 29.946,
+        "ip_info": {
+            "ip": "152.58.119.61",
+            "city": "Delhi",
+            "region": "Delhi",
+            "country": "IN",
+            "loc": "28.6519,77.2315",
+            "org": "AS55836 Reliance Jio Infocomm Limited",
+            "postal": "110001",
+            "timezone": "Asia/Kolkata",
+            "readme": "https://ipinfo.io/missingauth"
+        }
+    },
+    {
+        "timestamp": "2025-02-01 15:53:04",
+        "server": {
+            "url": "http://st.blazejpr.com:8080/speedtest/upload.php",
+            "lat": "26.9260",
+            "lon": "75.8235",
+            "name": "Jaipur",
+            "country": "India",
+            "cc": "IN",
+            "sponsor": "BlazeNet Ltd.",
+            "id": "30203",
+            "host": "st.blazejpr.com:8080",
+            "d": 237.20714450068533,
+            "latency": 29.763
+        },
+        "download_speed": 65.99940832218405,
+        "upload_speed": 0.7285115496444678,
+        "ping": 29.763,
+        "ip_info": {
+            "ip": "152.58.119.61",
+            "city": "Delhi",
+            "region": "Delhi",
+            "country": "IN",
+            "loc": "28.6519,77.2315",
+            "org": "AS55836 Reliance Jio Infocomm Limited",
+            "postal": "110001",
+            "timezone": "Asia/Kolkata",
+            "readme": "https://ipinfo.io/missingauth"
+        }
+    },
+    {
+        "timestamp": "2025-02-01 16:12:01",
+        "download_speed": 65.00979083590693,
+        "upload_speed": 2.8688593274757417,
+        "ping": 51.602,
+        "ip_info": {
+            "ip": "152.58.90.131",
+            "city": "Delhi",
+            "region": "Delhi",
+            "country": "IN",
+            "loc": "28.6519,77.2315",
+            "org": "AS55836 Reliance Jio Infocomm Limited",
+            "postal": "110001",
+            "timezone": "Asia/Kolkata",
+            "readme": "https://ipinfo.io/missingauth"
+        }
+    }
+]{"timestamp": "2025-02-01 16:15:49", "download_speed_mbps": 52.72110975920178, "upload_speed_mbps": 1.4587674461732136, "ping_ms": 40.955, "ip_info": {"ip": "152.58.90.131", "city": "Delhi", "region": "Delhi", "country": "IN", "loc": "28.6519,77.2315", "org": "AS55836 Reliance Jio Infocomm Limited", "postal": "110001", "timezone": "Asia/Kolkata", "readme": "https://ipinfo.io/missingauth"}}

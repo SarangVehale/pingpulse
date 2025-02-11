@@ -175,3 +175,4 @@
         }
     }
 ]{"timestamp": "2025-02-01 16:15:49", "download_speed_mbps": 52.72110975920178, "upload_speed_mbps": 1.4587674461732136, "ping_ms": 40.955, "ip_info": {"ip": "152.58.90.131", "city": "Delhi", "region": "Delhi", "country": "IN", "loc": "28.6519,77.2315", "org": "AS55836 Reliance Jio Infocomm Limited", "postal": "110001", "timezone": "Asia/Kolkata", "readme": "https://ipinfo.io/missingauth"}}
+{"timestamp": "2025-02-02 13:15:21", "download_speed_mbps": 84.21430923153085, "upload_speed_mbps": 2.4742864038678367, "ping_ms": 72.691, "ip_info": {"ip": "152.58.87.11", "city": "Delhi", "region": "Delhi", "country": "IN", "loc": "28.6519,77.2315", "org": "AS55836 Reliance Jio Infocomm Limited", "postal": "110001", "timezone": "Asia/Kolkata", "readme": "https://ipinfo.io/missingauth"}}

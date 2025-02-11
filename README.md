@@ -29,7 +29,7 @@ PingPulse is a Python-based tool for measuring your internet connection's downlo
 Install the required libraries using pip:
 
 ```bash
-pip install speedtest-cli pyfiglet colorama requests
+pip install speedtest-cli pyfiglet colorama requests fastapi
 ```
 
 ## Usage

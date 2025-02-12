@@ -2,6 +2,7 @@
 
 PingPulse is a Python-based tool for measuring your internet connection's download speed, upload speed, and ping latency. The results are displayed in a clean, color-coded format and saved in both JSON and CSV formats for record-keeping. Additionally, PingPulse fetches your IP information, including geolocation and service provider details.
 
+*Note* : Refer to pingpulse-frontend3/ if you need a GUI (react-based), else if you only want the cli-version follow the below instructions.
 ## Features
 
 - Measure download speed, upload speed, and ping latency
